@@ -52,7 +52,7 @@ Now you are ready to customize your site! To add your name to the site, go to yo
 <img align="right" width="337" height="200" src="/assets/IMG/template_frog.png"> 
 
 ***
-
+hhhhuhhHSHDjdDKld.
 ## Delivering your Project
 
 Your final project is delivered in two components: a report and your code.
