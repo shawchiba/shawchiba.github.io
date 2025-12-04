@@ -2,7 +2,9 @@
 
 YOUSE CROSS VALIDATION
 
-![](assets/IMG/end note.png){: width="500" }
+1[](assets/IMG/endnote.png)
+
+
 ![](assets/IMG/datapenguin.png){: width="500" }
 For this project, you will be applying your skills to train a machine learning model using real-world data, then publishing a report on your own website.
 
