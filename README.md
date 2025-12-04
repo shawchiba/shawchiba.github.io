@@ -8,7 +8,8 @@ YOUSE CROSS VALIDATION
 
 
 
-1[](assets/IMG/endnote.png)
+!
+[](assets/IMG/endnote.png)
 
 
 ![](assets/IMG/datapenguin.png){: width="500" }
