@@ -6,7 +6,7 @@ YOUSE CROSS VALIDATION
 
 **Student Grade Prediction Based on Different Variables**
 
-Here is a [link to my report](assets/FinalProject_Report_C111.pdf).
+Here is a [link to my report](assets/final project 111.pdf).
 
 
 Here is a [link to my Google Colab Notebook](https://colab.research.google.com/drive/1PEr6oxB2rIcs6Gax_qM6RqmpJDcMfzhH?usp=sharing).
