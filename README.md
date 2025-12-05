@@ -6,7 +6,7 @@ YOUSE CROSS VALIDATION
 
 Here is a [link to my report](https://github.com/shawchiba/shawchiba.github.io/blob/main/assets/final%20project%20111.pdf). - this way works though if i paste the link
 
-I tried to do it as shown in your tutorial/ other students projects but it wont turn it into a link: /assets/final_project_111.pdf
+I tried to do it as shown in your tutorial/ other students projects but it wont turn it into a link: /assets/final project 111.pdf
 
 
 
