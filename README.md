@@ -2,18 +2,13 @@
 
 YOUSE CROSS VALIDATION
 
-**Welcome to Paige's Machine Learning for Physical Sciences Final Project!**
-
-**Student Grade Prediction Based on Different Variables**
-
-Here is a [link to my report](https://github.com/shawchiba/shawchiba.github.io/blob/main/assets/final%20project%20111.pdf).
-(/assets/final project 111.pdf)
 
 
-Here is a [link to my Google Colab Notebook](https://colab.research.google.com/drive/1PEr6oxB2rIcs6Gax_qM6RqmpJDcMfzhH?usp=sharing).
+Here is a [link to my report](https://github.com/shawchiba/shawchiba.github.io/blob/main/assets/final%20project%20111.pdf). - this way works though if i paste the link
+
+I tried to do it as shown in your tutorial/ other students projects but it wont turn it into a link: /assets/final_project_111.pdf
 
 
-Here is a [link to my dataset on Kaggle](https://www.kaggle.com/datasets/dipam7/student-grade-prediction/data).
 
 
 
