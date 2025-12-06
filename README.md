@@ -3,7 +3,7 @@
 **Evaluation of Methods used To Model Wine Quality**
 
 
-Here is a [link to my report](https://github.com/shawchiba/shawchiba.github.io/blob/main/assets/Final%20Submission%20111%20Shaw%20Chiba.pdf)
+Here is a [link to my report](https://github.com/shawchiba/shawchiba.github.io/blob/main/assets/Final%20Project%20Shaw%20Chiba%20AOS%20111.pdf)
 
 Here is a [link to my Google Colab Notebook](https://colab.research.google.com/drive/1BWB9GQBwpPr5IUJ62fiNFXexWq0vUjov?usp=sharing)
 
