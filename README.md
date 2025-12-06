@@ -6,6 +6,8 @@
 **Student Grade Prediction Based on Different Variables**
 
 Here is a [link to my report](assets/FinalProject_Report_C111.pdf).
+Here is a [link to my report](https://github.com/shawchiba/shawchiba.github.io/blob/main/assets/Final%20Submission%20111%20Shaw%20Chiba.pdf)
+Here is a [link to my report](shawchiba.github.io/assets/Final Submission 111 Shaw Chiba)
 
 
 Here is a [link to my Google Colab Notebook](https://colab.research.google.com/drive/1PEr6oxB2rIcs6Gax_qM6RqmpJDcMfzhH?usp=sharing).
